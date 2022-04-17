@@ -1,0 +1,1 @@
+money-fx	treasury mulford currency target zones ranges

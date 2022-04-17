@@ -1,0 +1,1 @@
+money-fx	treasury baker currencies ranges that reflect fundamentals
